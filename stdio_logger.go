@@ -1,4 +1,4 @@
-package logger
+package loggers
 
 //LoggerStdIO implements the two StdIO levels of processes (Stdout and Stderr)
 type LoggerStdIO interface {

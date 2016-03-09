@@ -1,4 +1,4 @@
-package logger
+package loggers
 
 //LoggerRFC5424 follows the RFC 5424 format: https://tools.ietf.org/html/rfc5424
 type LoggerRFC5424 interface {
